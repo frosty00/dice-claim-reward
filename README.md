@@ -3,5 +3,5 @@
 simply run:
 
     git clone 
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     python3.5 claim_dividends.py
